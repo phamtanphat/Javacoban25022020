@@ -15,11 +15,11 @@ class Ideone
 			xin chao ban
 			toi ten la ..
 		*/
-		// 1 : Khai b�o bi?n
+		// 1 : Khai báo biến
 		String loichao = "Xin chao";
-		//2 : Ki?u d? li?u : String , int , double , long , float , char(Nguy�n th?y)
-		// Integer , Double , Long, Float (d?i tu?ng)
-		//3 : To�n t? , to�n h?ng 
+		//2 : Kiểu dữ liệu : String , int , double , long , float , char(Nguyên thủy)
+		// Integer , Double , Long, Float (đối tượng)
+		//3 : Toán tử , toán hạng 
 		// + - * / % , ++ -- ** // 
 		// 1 : ++ -- 
 		// 2 : * /
@@ -43,6 +43,15 @@ class Ideone
 		// 23
 		
 		// System.out.print(c);
+		
+		// 4 : Câu điều kiện
+		int a = 5;
+		int b = 6;
+		if(a > b)
+		System.out.print("A lon hon b");
+		else
+		System.out.print("A be hoac bang hon b");
+		
 		
 		
 		
