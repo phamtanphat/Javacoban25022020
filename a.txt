@@ -52,12 +52,18 @@ class Ideone
 		else
 		System.out.print("A be hoac bang hon b");
 		
-		
-		
-		
-		
-		
-		
+		int a = 5;
+		switch(a){
+			case 4 : System.out.print("A la 4");
+				break;
+			case 5 : System.out.print("A la 5");
+				break;
+			case 6 : System.out.print("A la 6");
+				break;
+			case 7 : System.out.print("A la 7");
+				break;
+			
+		}
 		
 		
 		
