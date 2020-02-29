@@ -81,5 +81,10 @@ class Ideone
 			if(value % 2 == 1) continue;
 			System.out.println(value);
 		}
+		int count = 0;
+		while(count < arrayNumber.length){
+			System.out.print(arrayNumber[count++]);
+			
+		}
 	}
 }
