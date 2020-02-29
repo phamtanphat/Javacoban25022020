@@ -76,5 +76,10 @@ class Ideone
 			if(arrayNumber[i] % 2 == 1) continue;
 			System.out.print(arrayNumber[i]);
 		}
+		// foreach
+		for (int value : arrayNumber){
+			if(value % 2 == 1) continue;
+			System.out.println(value);
+		}
 	}
 }
